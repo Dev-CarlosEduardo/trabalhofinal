@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625348011942",
+    "firebase_url": "https://braga-clube-default-rtdb.firebaseio.com",
+    "project_id": "braga-clube",
+    "storage_bucket": "braga-clube.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625348011942:android:cb73d239ecf0c413da9167",
+        "android_client_info": {
+          "package_name": "com.example.brag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625348011942-qup1q6q6i03067bbb9g2e2d8krhiv96k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArKd6MSp_b_EvoaYI2MJCVUWG02fnBFp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625348011942-qup1q6q6i03067bbb9g2e2d8krhiv96k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
